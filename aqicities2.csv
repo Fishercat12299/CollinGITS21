@@ -1,0 +1,10 @@
+City,TotalDays,PoorDays,AQImedian,Zone
+Clearlake,341,4,32,west
+Salem,365,11,32,west
+Durango,366,1,44,mountain
+Sante Fe,366,1,44,mountain
+Ann Arbor,366,6,38,central
+Bismarck,366,0,37,central
+Bangor,362,0,29,east
+Charlottesville,363,0,35,east
+
