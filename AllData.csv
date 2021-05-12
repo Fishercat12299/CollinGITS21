@@ -1,0 +1,21 @@
+,City,TotalDays2010,PoorDays2010,AQImedian2010,TotalDays2020,PoorDays2020,AQImedian2020,Zone,Poorday_Rate2010,Poorday_Rate2020
+0,Seattle,365,3,41,306,14,42,west,3,16
+1,San Francisco,365,14,48,314,22,45,west,14,25
+2,Los Angeles,365,115,77,275,119,81,west,115,157
+3,Denver,365,38,61,366,34,58,mountain,38,33
+4,Salt Lake City,365,24,51,366,21,50,mountain,24,20
+5,Phoenix,365,59,74,366,70,75,mountain,59,69
+6,Chicago,365,43,71,366,28,56,central,43,27
+7,St.Louis,365,103,74,366,10,52,central,103,9
+8,Dallas,365,28,52,306,24,49,central,28,28
+9,Boston,365,10,47,306,0,42,east,10,0
+10,Washington DC,365,50,55,366,3,42,east,50,2
+11,Miami,365,6,48,275,2,44,east,6,2
+12,Clearlake,361,0,35,341,4,32,west,0,4
+13,Salem,365,1,27,365,11,32,west,1,11
+14,Durango,365,10,48,366,1,44,mountain,10,0
+15,Sante Fe,365,1,44,366,1,44,mountain,1,0
+16,Ann Arbor,362,1,38,366,6,38,central,1,5
+17,Bismarck,365,1,41,366,0,37,central,1,0
+18,Bangor,365,0,34,362,0,29,east,0,0
+19,Charlottesville,261,4,45,363,0,35,east,5,0
